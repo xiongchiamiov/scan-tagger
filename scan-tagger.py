@@ -3,7 +3,9 @@
 import argparse
 import os
 import stat
+import subprocess
 import sys
+import tempfile
 
 class ScanTaggerException(Exception):
     '''Class for any errors that should terminate the program and be passed on
@@ -12,6 +14,7 @@ class ScanTaggerException(Exception):
 
 def main():
     parser = argparse.ArgumentParser()
+    parser.add_argument('-i', '--interactive', action='store_true')
     parser.add_argument('file')
     parser.add_argument('pattern')
     args = parser.parse_args()
@@ -42,7 +45,53 @@ def main():
             words = line.split()
             image_name = image_format_string % counter
             words[-1] = image_name
-            new_file.append(' '.join(words))
+            new_lines = [' '.join(words)]
+
+            if args.interactive:
+                while True:
+                    print('-' + line)
+                    for new_line in new_lines:
+                        print('+' + new_line)
+                    choice = input('Continue with this change? [y,q,a,e,d,?] ')
+                    if choice == 'y':
+                        print()
+                        break
+                    elif choice == 'q':
+                        sys.exit(1)
+                    elif choice == 'a':
+                        args.interactive = False
+                        break
+                    elif choice == 'e':
+                        with tempfile.NamedTemporaryFile(mode='w',
+                                                         delete=False) as scratch:
+                            scratch.write('\n'.join(new_lines))
+                            tempfile_name = scratch.name
+                            # Close the file so we can manipulate it in a text
+                            # editor.
+                        # Open file in the user's preferred editor; if they
+                        # don't specify, assume vi is available thanks to the
+                        # Single UNIX Specification.
+                        editor = os.getenv('EDITOR', 'vi')
+                        subprocess.run([editor, tempfile_name])
+                        with open(tempfile_name, 'r') as scratch:
+                            new_lines = scratch.readlines()
+                    elif choice == 'd':
+                        counter += 1
+                        image_name = image_format_string % counter
+                        words[-1] = image_name
+                        new_lines.append(' '.join(words))
+                    # We intentionally don't check for '?', as it has the same
+                    # behavior as any unknown input.
+                    else:
+                        print("y - keep this change as-is")
+                        print("q - quit the program")
+                        print("a - keep this change and answer y to all subsequent changes")
+                        print("e - manually edit the line")
+                        print("d - duplicate line (useful for unrecorded shots at the beginning of a roll)")
+                        print("? - print help")
+                    print()
+
+            new_file.extend(new_lines)
             counter += 1
 
     with open(args.file, 'w') as f:
