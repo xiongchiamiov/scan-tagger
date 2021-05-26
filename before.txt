@@ -1,0 +1,80 @@
+exiftool -Make="Pentax" -Model="ME" -LensMake="Pentax" -LensModel="SMC Pentax-M 50mm F1.7" -Lens="Pentax SMC Pentax-M 50mm F1.7" -DateTime="2021:04:09 14:16" -DateTimeOriginal="2021:04:09 14:16" -ApertureValue="11" -FNumber="11" -ExposureCompensation="0" -FocalLength="50" -ISO="100" -LightSource="Unknown" *_1.jpg
+
+exiftool -Make="Pentax" -Model="ME" -LensMake="Pentax" -LensModel="SMC Pentax-M 50mm F1.7" -Lens="Pentax SMC Pentax-M 50mm F1.7" -DateTime="2021:04:09 14:17" -DateTimeOriginal="2021:04:09 14:17" -ApertureValue="11" -FNumber="11" -ExposureCompensation="0" -FocalLength="50" -ISO="100" -LightSource="Unknown" *_2.jpg
+
+exiftool -Make="Pentax" -Model="ME" -LensMake="Pentax" -LensModel="SMC Pentax-M 50mm F1.7" -Lens="Pentax SMC Pentax-M 50mm F1.7" -DateTime="2021:04:09 14:19" -DateTimeOriginal="2021:04:09 14:19" -ApertureValue="11" -FNumber="11" -ExposureCompensation="0" -FocalLength="50" -ISO="100" -LightSource="Unknown" *_3.jpg
+
+exiftool -Make="Pentax" -Model="ME" -LensMake="Pentax" -LensModel="SMC Pentax-M 50mm F1.7" -Lens="Pentax SMC Pentax-M 50mm F1.7" -DateTime="2021:04:09 14:20" -DateTimeOriginal="2021:04:09 14:20" -ApertureValue="11" -FNumber="11" -ExposureCompensation="0" -FocalLength="50" -ISO="100" -LightSource="Unknown" *_4.jpg
+
+exiftool -Make="Pentax" -Model="ME" -LensMake="Pentax" -LensModel="SMC Pentax-M 50mm F1.7" -Lens="Pentax SMC Pentax-M 50mm F1.7" -DateTime="2021:04:09 14:22" -DateTimeOriginal="2021:04:09 14:22" -ApertureValue="11" -FNumber="11" -ExposureCompensation="0" -FocalLength="50" -ISO="100" -LightSource="Unknown" *_5.jpg
+
+exiftool -Make="Pentax" -Model="ME" -LensMake="Pentax" -LensModel="SMC Pentax-M 50mm F1.7" -Lens="Pentax SMC Pentax-M 50mm F1.7" -DateTime="2021:04:09 14:25" -DateTimeOriginal="2021:04:09 14:25" -ApertureValue="11" -FNumber="11" -ExposureCompensation="0" -FocalLength="50" -ISO="100" -LightSource="Unknown" *_6.jpg
+
+exiftool -Make="Pentax" -Model="ME" -LensMake="Pentax" -LensModel="SMC Pentax-M 50mm F1.7" -Lens="Pentax SMC Pentax-M 50mm F1.7" -DateTime="2021:04:09 14:26" -DateTimeOriginal="2021:04:09 14:26" -ApertureValue="11" -FNumber="11" -ExposureCompensation="0" -FocalLength="50" -ISO="100" -LightSource="Unknown" *_7.jpg
+
+exiftool -Make="Pentax" -Model="ME" -LensMake="Pentax" -LensModel="SMC Pentax-M 50mm F1.7" -Lens="Pentax SMC Pentax-M 50mm F1.7" -DateTime="2021:04:09 14:30" -DateTimeOriginal="2021:04:09 14:30" -ApertureValue="11" -FNumber="11" -ExposureCompensation="0" -FocalLength="50" -ISO="100" -LightSource="Unknown" *_8.jpg
+
+exiftool -Make="Pentax" -Model="ME" -LensMake="Pentax" -LensModel="SMC Pentax-M 50mm F1.7" -Lens="Pentax SMC Pentax-M 50mm F1.7" -DateTime="2021:04:09 14:32" -DateTimeOriginal="2021:04:09 14:32" -ApertureValue="4.0" -FNumber="4.0" -ExposureCompensation="0" -FocalLength="50" -ISO="100" -LightSource="Unknown" *_9.jpg
+
+exiftool -Make="Pentax" -Model="ME" -LensMake="Pentax" -LensModel="SMC Pentax-M 50mm F1.7" -Lens="Pentax SMC Pentax-M 50mm F1.7" -DateTime="2021:04:09 14:33" -DateTimeOriginal="2021:04:09 14:33" -ApertureValue="11" -FNumber="11" -ExposureCompensation="0" -FocalLength="50" -ISO="100" -LightSource="Unknown" *_10.jpg
+
+exiftool -Make="Pentax" -Model="ME" -LensMake="Pentax" -LensModel="SMC Pentax-M 50mm F1.7" -Lens="Pentax SMC Pentax-M 50mm F1.7" -DateTime="2021:04:09 14:35" -DateTimeOriginal="2021:04:09 14:35" -ApertureValue="5.6" -FNumber="5.6" -ExposureCompensation="0" -FocalLength="50" -ISO="100" -LightSource="Unknown" *_11.jpg
+
+exiftool -Make="Pentax" -Model="ME" -LensMake="Pentax" -LensModel="SMC Pentax-M 50mm F1.7" -Lens="Pentax SMC Pentax-M 50mm F1.7" -DateTime="2021:04:09 14:38" -DateTimeOriginal="2021:04:09 14:38" -ApertureValue="11" -FNumber="11" -ExposureCompensation="0" -FocalLength="50" -ISO="100" -LightSource="Unknown" *_12.jpg
+
+exiftool -Make="Pentax" -Model="ME" -LensMake="Pentax" -LensModel="SMC Pentax-M 50mm F1.7" -Lens="Pentax SMC Pentax-M 50mm F1.7" -DateTime="2021:04:09 14:38" -DateTimeOriginal="2021:04:09 14:38" -ApertureValue="11" -FNumber="11" -ExposureCompensation="0" -FocalLength="50" -ISO="100" -LightSource="Unknown" *_13.jpg
+
+exiftool -Make="Pentax" -Model="ME" -LensMake="Pentax" -LensModel="SMC Pentax-M 50mm F1.7" -Lens="Pentax SMC Pentax-M 50mm F1.7" -DateTime="2021:04:09 14:40" -DateTimeOriginal="2021:04:09 14:40" -ApertureValue="11" -FNumber="11" -ExposureCompensation="0" -FocalLength="50" -ISO="100" -LightSource="Unknown" *_14.jpg
+
+exiftool -Make="Pentax" -Model="ME" -LensMake="Pentax" -LensModel="SMC Pentax-M 50mm F1.7" -Lens="Pentax SMC Pentax-M 50mm F1.7" -DateTime="2021:04:09 14:41" -DateTimeOriginal="2021:04:09 14:41" -ApertureValue="4.0" -FNumber="4.0" -ExposureCompensation="0" -FocalLength="50" -ISO="100" -LightSource="Unknown" *_15.jpg
+
+exiftool -Make="Pentax" -Model="ME" -LensMake="Pentax" -LensModel="SMC Pentax-M 50mm F1.7" -Lens="Pentax SMC Pentax-M 50mm F1.7" -DateTime="2021:04:12 13:30" -DateTimeOriginal="2021:04:12 13:30" -ApertureValue="8" -FNumber="8" -ExposureCompensation="0" -FocalLength="50" -ISO="100" -LightSource="Unknown" *_16.jpg
+
+exiftool -Make="Pentax" -Model="ME" -LensMake="Pentax" -LensModel="SMC Pentax-M 50mm F1.7" -Lens="Pentax SMC Pentax-M 50mm F1.7" -DateTime="2021:04:12 13:31" -DateTimeOriginal="2021:04:12 13:31" -ApertureValue="8" -FNumber="8" -ExposureCompensation="0" -FocalLength="50" -ISO="100" -LightSource="Unknown" *_17.jpg
+
+exiftool -Make="Pentax" -Model="ME" -LensMake="Pentax" -LensModel="SMC Pentax-M 50mm F1.7" -Lens="Pentax SMC Pentax-M 50mm F1.7" -DateTime="2021:04:12 13:35" -DateTimeOriginal="2021:04:12 13:35" -ApertureValue="4.0" -FNumber="4.0" -ExposureCompensation="0" -FocalLength="50" -ISO="100" -LightSource="Unknown" *_18.jpg
+
+exiftool -Make="Pentax" -Model="ME" -LensMake="Pentax" -LensModel="SMC Pentax-M 50mm F1.7" -Lens="Pentax SMC Pentax-M 50mm F1.7" -DateTime="2021:04:12 13:35" -DateTimeOriginal="2021:04:12 13:35" -ApertureValue="8" -FNumber="8" -ExposureCompensation="0" -FocalLength="50" -ISO="100" -LightSource="Unknown" *_19.jpg
+
+exiftool -Make="Pentax" -Model="ME" -LensMake="Pentax" -LensModel="SMC Pentax-M 50mm F1.7" -Lens="Pentax SMC Pentax-M 50mm F1.7" -DateTime="2021:04:12 13:36" -DateTimeOriginal="2021:04:12 13:36" -ApertureValue="8" -FNumber="8" -ExposureCompensation="0" -FocalLength="50" -ISO="100" -LightSource="Unknown" *_20.jpg
+
+exiftool -Make="Pentax" -Model="ME" -LensMake="Pentax" -LensModel="SMC Pentax-M 50mm F1.7" -Lens="Pentax SMC Pentax-M 50mm F1.7" -DateTime="2021:04:12 13:38" -DateTimeOriginal="2021:04:12 13:38" -ApertureValue="8" -FNumber="8" -ExposureCompensation="0" -FocalLength="50" -ISO="100" -LightSource="Unknown" *_21.jpg
+
+exiftool -Make="Pentax" -Model="ME" -LensMake="Pentax" -LensModel="SMC Pentax-M 50mm F1.7" -Lens="Pentax SMC Pentax-M 50mm F1.7" -DateTime="2021:04:12 13:41" -DateTimeOriginal="2021:04:12 13:41" -ApertureValue="8" -FNumber="8" -ExposureCompensation="0" -FocalLength="50" -ISO="100" -LightSource="Unknown" *_22.jpg
+
+exiftool -Make="Pentax" -Model="ME" -LensMake="Pentax" -LensModel="SMC Pentax-M 50mm F1.7" -Lens="Pentax SMC Pentax-M 50mm F1.7" -DateTime="2021:04:12 13:44" -DateTimeOriginal="2021:04:12 13:44" -ApertureValue="16" -FNumber="16" -ExposureCompensation="0" -FocalLength="50" -ISO="100" -LightSource="Unknown" *_23.jpg
+
+exiftool -Make="Pentax" -Model="ME" -LensMake="Pentax" -LensModel="SMC Pentax-M 50mm F1.7" -Lens="Pentax SMC Pentax-M 50mm F1.7" -DateTime="2021:04:12 13:45" -DateTimeOriginal="2021:04:12 13:45" -ApertureValue="8" -FNumber="8" -ExposureCompensation="0" -FocalLength="50" -ISO="100" -LightSource="Unknown" *_24.jpg
+
+exiftool -Make="Pentax" -Model="ME" -LensMake="Pentax" -LensModel="SMC Pentax-M 50mm F1.7" -Lens="Pentax SMC Pentax-M 50mm F1.7" -DateTime="2021:04:12 13:47" -DateTimeOriginal="2021:04:12 13:47" -ApertureValue="5.6" -FNumber="5.6" -ExposureCompensation="0" -FocalLength="50" -ISO="100" -LightSource="Unknown" *_25.jpg
+
+exiftool -Make="Pentax" -Model="ME" -LensMake="Pentax" -LensModel="SMC Pentax-M 50mm F1.7" -Lens="Pentax SMC Pentax-M 50mm F1.7" -DateTime="2021:04:12 13:48" -DateTimeOriginal="2021:04:12 13:48" -ApertureValue="4.0" -FNumber="4.0" -ExposureCompensation="0" -FocalLength="50" -ISO="100" -LightSource="Unknown" *_26.jpg
+
+exiftool -Make="Pentax" -Model="ME" -LensMake="Pentax" -LensModel="SMC Pentax-M 50mm F1.7" -Lens="Pentax SMC Pentax-M 50mm F1.7" -DateTime="2021:04:12 13:51" -DateTimeOriginal="2021:04:12 13:51" -ApertureValue="8" -FNumber="8" -ExposureCompensation="0" -FocalLength="50" -ISO="100" -LightSource="Unknown" *_27.jpg
+
+exiftool -Make="Pentax" -Model="ME" -LensMake="Pentax" -LensModel="SMC Pentax-M 50mm F1.7" -Lens="Pentax SMC Pentax-M 50mm F1.7" -DateTime="2021:04:12 13:53" -DateTimeOriginal="2021:04:12 13:53" -ApertureValue="8" -FNumber="8" -ExposureCompensation="0" -FocalLength="50" -ISO="100" -LightSource="Unknown" *_28.jpg
+
+exiftool -Make="Pentax" -Model="ME" -LensMake="Pentax" -LensModel="SMC Pentax-M 50mm F1.7" -Lens="Pentax SMC Pentax-M 50mm F1.7" -DateTime="2021:04:12 13:57" -DateTimeOriginal="2021:04:12 13:57" -ApertureValue="8" -FNumber="8" -ExposureCompensation="0" -FocalLength="50" -ISO="100" -LightSource="Unknown" *_29.jpg
+
+exiftool -Make="Pentax" -Model="ME" -LensMake="Pentax" -LensModel="SMC Pentax-M 50mm F1.7" -Lens="Pentax SMC Pentax-M 50mm F1.7" -DateTime="2021:04:12 13:58" -DateTimeOriginal="2021:04:12 13:58" -ApertureValue="8" -FNumber="8" -ExposureCompensation="0" -FocalLength="50" -ISO="100" -LightSource="Unknown" *_30.jpg
+
+exiftool -Make="Pentax" -Model="ME" -LensMake="Pentax" -LensModel="SMC Pentax-M 50mm F1.7" -Lens="Pentax SMC Pentax-M 50mm F1.7" -DateTime="2021:04:12 14:02" -DateTimeOriginal="2021:04:12 14:02" -ApertureValue="8" -FNumber="8" -ExposureCompensation="0" -FocalLength="50" -ISO="100" -LightSource="Unknown" *_31.jpg
+
+exiftool -Make="Pentax" -Model="ME" -LensMake="Pentax" -LensModel="SMC Pentax-M 50mm F1.7" -Lens="Pentax SMC Pentax-M 50mm F1.7" -DateTime="2021:04:12 14:05" -DateTimeOriginal="2021:04:12 14:05" -ApertureValue="8" -FNumber="8" -ExposureCompensation="0" -FocalLength="50" -ISO="100" -LightSource="Unknown" *_32.jpg
+
+exiftool -Make="Pentax" -Model="ME" -LensMake="Pentax" -LensModel="SMC Pentax-M 50mm F1.7" -Lens="Pentax SMC Pentax-M 50mm F1.7" -DateTime="2021:04:12 14:09" -DateTimeOriginal="2021:04:12 14:09" -ApertureValue="8" -FNumber="8" -ExposureCompensation="0" -FocalLength="50" -ISO="100" -LightSource="Unknown" *_33.jpg
+
+exiftool -Make="Pentax" -Model="ME" -LensMake="Pentax" -LensModel="SMC Pentax-M 50mm F1.7" -Lens="Pentax SMC Pentax-M 50mm F1.7" -DateTime="2021:04:12 14:14" -DateTimeOriginal="2021:04:12 14:14" -ApertureValue="5.6" -FNumber="5.6" -ExposureCompensation="0" -FocalLength="50" -ISO="100" -LightSource="Unknown" *_34.jpg
+
+exiftool -Make="Pentax" -Model="ME" -LensMake="Pentax" -LensModel="SMC Pentax-M 50mm F1.7" -Lens="Pentax SMC Pentax-M 50mm F1.7" -DateTime="2021:04:12 14:16" -DateTimeOriginal="2021:04:12 14:16" -ApertureValue="8" -FNumber="8" -ExposureCompensation="0" -FocalLength="50" -ISO="100" -LightSource="Unknown" *_35.jpg
+
+exiftool -Make="Pentax" -Model="ME" -LensMake="Pentax" -LensModel="SMC Pentax-M 50mm F1.7" -Lens="Pentax SMC Pentax-M 50mm F1.7" -DateTime="2021:04:12 14:19" -DateTimeOriginal="2021:04:12 14:19" -ApertureValue="16" -FNumber="16" -ExposureCompensation="0" -FocalLength="50" -ISO="100" -LightSource="Unknown" *_36.jpg
+
+exiftool -Make="Pentax" -Model="ME" -LensMake="Pentax" -LensModel="SMC Pentax-M 50mm F1.7" -Lens="Pentax SMC Pentax-M 50mm F1.7" -DateTime="2021:04:12 14:20" -DateTimeOriginal="2021:04:12 14:20" -ApertureValue="8" -FNumber="8" -ExposureCompensation="0" -FocalLength="50" -ISO="100" -LightSource="Unknown" *_37.jpg
+
+exiftool -Make="Pentax" -Model="ME" -LensMake="Pentax" -LensModel="SMC Pentax-M 50mm F1.7" -Lens="Pentax SMC Pentax-M 50mm F1.7" -DateTime="2021:04:12 14:21" -DateTimeOriginal="2021:04:12 14:21" -ApertureValue="8" -FNumber="8" -ExposureCompensation="0" -FocalLength="50" -ISO="100" -LightSource="Unknown" *_38.jpg
+
+exiftool -Make="Pentax" -Model="ME" -LensMake="Pentax" -LensModel="SMC Pentax-M 50mm F1.7" -Lens="Pentax SMC Pentax-M 50mm F1.7" -DateTime="2021:04:12 14:25" -DateTimeOriginal="2021:04:12 14:25" -ApertureValue="8" -FNumber="8" -ExposureCompensation="0" -FocalLength="50" -ISO="100" -LightSource="Unknown" *_39.jpg
+
+exiftool -Make="Pentax" -Model="ME" -LensMake="Pentax" -LensModel="SMC Pentax-M 50mm F1.7" -Lens="Pentax SMC Pentax-M 50mm F1.7" -DateTime="2021:04:12 14:31" -DateTimeOriginal="2021:04:12 14:31" -ApertureValue="4.0" -FNumber="4.0" -ExposureCompensation="0" -FocalLength="50" -ISO="100" -LightSource="Unknown" *_40.jpg
+
