@@ -16,6 +16,7 @@ class ScanTaggerException(Exception):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('-i', '--interactive', action='store_true')
+    parser.add_argument('--keep-backups', action='store_true')
     parser.add_argument('file')
     parser.add_argument('pattern')
     args = parser.parse_args()
@@ -46,6 +47,8 @@ def main():
             words = line.split()
             image_name = image_format_string % counter
             words[-1] = image_name
+            if not args.keep_backups:
+                words.append('-overwrite_original')
             new_lines = [' '.join(words)]
 
             if args.interactive:
