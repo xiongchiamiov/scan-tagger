@@ -2,6 +2,7 @@
 
 import argparse
 import os
+import platform
 import stat
 import subprocess
 import sys
@@ -52,7 +53,7 @@ def main():
                     print('-' + line)
                     for new_line in new_lines:
                         print('+' + new_line)
-                    choice = input('Continue with this change? [y,q,a,e,d,?] ')
+                    choice = input('Continue with this change? [y,q,a,e,d,o,?] ')
                     if choice == 'y':
                         print()
                         break
@@ -80,6 +81,18 @@ def main():
                         image_name = image_format_string % counter
                         words[-1] = image_name
                         new_lines.append(' '.join(words))
+                    elif choice == 'o':
+                        image_name = image_format_string % counter
+                        # Open the default handler for this file.
+                        # https://stackoverflow.com/q/434597/120999
+                        if platform.system() == 'Darwin':
+                            subprocess.run(['open', image_name])
+                        elif platform.system() == 'Linux':
+                            subprocess.run(['xdg-open', image_name])
+                        elif platform.system() == 'Windows':
+                            subprocess.run(['start', image_name], shell=True)
+                        else:
+                            print("Unknown operating system.")
                     # We intentionally don't check for '?', as it has the same
                     # behavior as any unknown input.
                     else:
@@ -88,6 +101,7 @@ def main():
                         print("a - keep this change and answer y to all subsequent changes")
                         print("e - manually edit the line")
                         print("d - duplicate line (useful for unrecorded shots at the beginning of a roll)")
+                        print("o - open the image for viewing")
                         print("? - print help")
                     print()
 
