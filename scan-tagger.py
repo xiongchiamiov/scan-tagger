@@ -116,6 +116,8 @@ def main():
             f.write(line)
             f.write('\n')
 
+    subprocess.run(['./' + args.file], check=True)
+
 def parse_image_pattern(pattern):
     '''Split apart a filename into pieces we can increment.
 
