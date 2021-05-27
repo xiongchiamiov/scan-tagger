@@ -48,7 +48,9 @@ def main():
             image_name = image_format_string % counter
             words[-1] = image_name
             if not args.keep_backups:
-                words.append('-overwrite_original')
+                # Put this argument at the beginning so it doesn't mess with
+                # our manipulations of the filename when duplicating lines.
+                words.insert(1, '-overwrite_original')
             new_lines = [' '.join(words)]
 
             if args.interactive:
