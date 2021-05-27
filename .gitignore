@@ -1,3 +1,6 @@
 env
 input.txt
 *.jpg
+build
+dist
+*.egg-info

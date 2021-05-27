@@ -1,7 +1,7 @@
 scan-tagger
 ===========
 
-A helper script for apply metadata from [Exif Notes] to scans.
+A helper script for applying metadata from [Exif Notes] to scans.
 
 [Exif Notes]: https://play.google.com/store/apps/details?id=com.tommihirvonen.exifnotes&hl=en_US&gl=US
 
@@ -14,7 +14,7 @@ help automate those changes.
 
 ## Installation
 
-Coming soon!
+    [$]> python3 -m pip install scan-tagger
 
 ## Usage
 

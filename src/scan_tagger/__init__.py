@@ -14,6 +14,13 @@ class ScanTaggerException(Exception):
     pass
 
 def main():
+    try:
+        run()
+    except ScanTaggerException as e:
+        print(e)
+        sys.exit(1)
+
+def run():
     parser = argparse.ArgumentParser()
     parser.add_argument('-i', '--interactive', action='store_true')
     parser.add_argument('--keep-backups', action='store_true')
@@ -143,8 +150,4 @@ def parse_image_pattern(pattern):
     return (counter, format_string)
 
 if __name__ == '__main__':
-    try:
-        main()
-    except ScanTaggerException as e:
-        print(e)
-        sys.exit(1)
+    main()
